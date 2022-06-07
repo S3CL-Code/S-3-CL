@@ -18,4 +18,6 @@ scikit_learn==0.22.1
 
 ```
 
-We will upload more pre-trained models and trained weights soon.
+The function for Bayesian non-parametric prototype inference algorithm can be found in `.\bayesian_DP.py`
+
+We will upload more data with pre-trained models and trained weights via external link soon.
